@@ -6,7 +6,7 @@ import "./assets/img/rigo-baby.jpg";
 import "./assets/img/4geeks.ico";
 
 window.onload = function() {
-  let pronoun = ["us", "who", "someone", "the", "Harry"];
+  let pronoun = ["that", "you", "it", "someone", "they"];
   let adj = ["scary", "beautiful", "nice", "yellow", "fast"];
   let noun = ["car", "man", "people", "woman", "pen"];
   let domainList = [];
